@@ -1,0 +1,15 @@
+/Users/charles/Desktop/Assignment3_Charles_Anthony/bin/Debug/net7.0/Assignment3_Charles_Anthony
+/Users/charles/Desktop/Assignment3_Charles_Anthony/bin/Debug/net7.0/Assignment3_Charles_Anthony.deps.json
+/Users/charles/Desktop/Assignment3_Charles_Anthony/bin/Debug/net7.0/Assignment3_Charles_Anthony.runtimeconfig.json
+/Users/charles/Desktop/Assignment3_Charles_Anthony/bin/Debug/net7.0/Assignment3_Charles_Anthony.dll
+/Users/charles/Desktop/Assignment3_Charles_Anthony/bin/Debug/net7.0/Assignment3_Charles_Anthony.pdb
+/Users/charles/Desktop/Assignment3_Charles_Anthony/obj/Debug/net7.0/Assignment3_Charles_Anthony.csproj.AssemblyReference.cache
+/Users/charles/Desktop/Assignment3_Charles_Anthony/obj/Debug/net7.0/Assignment3_Charles_Anthony.GeneratedMSBuildEditorConfig.editorconfig
+/Users/charles/Desktop/Assignment3_Charles_Anthony/obj/Debug/net7.0/Assignment3_Charles_Anthony.AssemblyInfoInputs.cache
+/Users/charles/Desktop/Assignment3_Charles_Anthony/obj/Debug/net7.0/Assignment3_Charles_Anthony.AssemblyInfo.cs
+/Users/charles/Desktop/Assignment3_Charles_Anthony/obj/Debug/net7.0/Assignment3_Charles_Anthony.csproj.CoreCompileInputs.cache
+/Users/charles/Desktop/Assignment3_Charles_Anthony/obj/Debug/net7.0/Assignment3_Charles_Anthony.dll
+/Users/charles/Desktop/Assignment3_Charles_Anthony/obj/Debug/net7.0/refint/Assignment3_Charles_Anthony.dll
+/Users/charles/Desktop/Assignment3_Charles_Anthony/obj/Debug/net7.0/Assignment3_Charles_Anthony.pdb
+/Users/charles/Desktop/Assignment3_Charles_Anthony/obj/Debug/net7.0/Assignment3_Charles_Anthony.genruntimeconfig.cache
+/Users/charles/Desktop/Assignment3_Charles_Anthony/obj/Debug/net7.0/ref/Assignment3_Charles_Anthony.dll
